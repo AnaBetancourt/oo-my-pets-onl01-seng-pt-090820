@@ -41,4 +41,6 @@ class Owner
     Cat.new(cat, self)
   end
   
+  
+  
 end
